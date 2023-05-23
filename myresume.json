@@ -1,59 +1,24 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
-    "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "name": "Mateboho Mathakhoe",
+    "label": "IT Student"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
-    }]
-  },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
+    
+  
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
+    "institution": " Central University of Technology",
+    "url": "https://www.cut.ac.za/",
+    "area": "Information Technology",
+    "studyType": "Diploma",
+    "startDate": "2022",
+    "endDate": "2024",
+    "average": "83.2",
     "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+      "Internet programming (html ,css, )",
+      "Information Technology Essentials 1 ( cisco networking simulation ",
+     "                                        , nemisa , virtual machine)" ,
+     "Software Development(c# )"  
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -61,58 +26,40 @@
     "summary": "There is no spoon."
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+   " Representative at cluster competition of the 2017 Science Olympiad "
+   " above 80% for the year in Drama and Afrikaans 2017"
+   " A vir Die Vrystaatse Kunswedstrydstryd: Monoloog"
+    
+    "certifications":
+     [{
+   " Fundamentals in Digital Marketing"
+    
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
+  
+  "skills": [
+     "c#",
+     "Robotics-arduino",
+     "Virtual Machine - Linux",
+     "Linux- medium proficiency",
+     "HTML",
+     "CSS",
+     "Cisco networking simulation" ,
+      "Azure functions",
+      "Github Codesace",
+      "Virtual machine",
+      "CI/CD configuration"
+      
+]
   }],
   "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
+    "languages": "English , Sesotho",
+    "fluency": "Native speaker",
+    "language": "Afrikaans",
+    "fluency.": "fluent"
   }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [{
-    "name": "Project",
-    "description": "Description…",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "keywords": [
-      "HTML"
-    ],
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "url": "https://project.com/",
-    "roles": [
-      "Team Lead"
-    ],
-    "entity": "Entity",
-    "type": "application"
-  }]
+  "interests": [
+    "photography , art , music , ai , crypto , finance"
+  ]
+  
+  
 }
